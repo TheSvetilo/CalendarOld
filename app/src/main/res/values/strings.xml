@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="header_today">Today</string>
+    <string name="header_soon">Soon</string>
+</resources>
